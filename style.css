@@ -317,7 +317,7 @@ body {
     }
 
     .competencies-grid {
-        grid-template-columns: repeat(1, 1fr); /* Stack columns on mobile */
+        grid-template-columns: repeat(1, 1fr); /* Stack columns on tablets/mobile */
         grid-template-rows: auto; /* Let rows adjust automatically */
     }
 }
